@@ -16,7 +16,7 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=SaiSatwik2226&theme=highcontrast&show_icons=true&count_private=true)
 <br>
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiSatwik2226)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiSatwik2226&layout=compact)
 <!--
 **SaiSatwik2226/SaiSatwik2226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
