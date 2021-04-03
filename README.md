@@ -6,7 +6,7 @@
 <br>
 <!--![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiSatwik2226&layout=compact)-->
 
-<p>some basic stuff<br>
+<p align="center">some basic stuff<br>
 <img align="center" alt="HTML5" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg">
 <img align="center" alt="CSS3" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg">
 <img align="center" alt="JS" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg">
