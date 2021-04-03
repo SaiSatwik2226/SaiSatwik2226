@@ -10,8 +10,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/saisatwik2226" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="saisatwik2226" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anantha sai satwik vysyaraju" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="anantha sai satwik vysyaraju" height="30" width="40" /></a>
-<a href="https://fb.com/satwik vysyaraju" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="satwik vysyaraju" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anantha-sai-satwik-vysyaraju" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="anantha sai satwik vysyaraju" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100011199968863" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="satwik vysyaraju" height="30" width="40" /></a>
 <a href="https://instagram.com/_satwik_2226" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_satwik_2226" height="30" width="40" /></a>
 </p>
 
