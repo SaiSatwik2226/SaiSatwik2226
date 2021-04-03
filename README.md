@@ -1,6 +1,11 @@
 <h1 align="center">Hi there 👋</h1>
 
-<h2>This is Sai Satwik</h2>
+<h2>Anantha Sai Satwik</h2>
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=SaiSatwik2226&theme=highcontrast&show_icons=true&count_private=true)
+<br>
+<!--![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiSatwik2226&layout=compact)-->
+
 <p>some basic stuff<br>
 <img align="center" alt="HTML5" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg">
 <img align="center" alt="CSS3" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg">
@@ -14,9 +19,6 @@
 </p>
 <br>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=SaiSatwik2226&theme=highcontrast&show_icons=true&count_private=true)
-<br>
-<!--![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiSatwik2226&layout=compact)-->
 <!--
 **SaiSatwik2226/SaiSatwik2226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
