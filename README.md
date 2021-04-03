@@ -19,7 +19,7 @@
 <img align="center" alt="c++" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/cplusplus.svg">
 </p>
 <br>
-
+![image title](https://rushter.com/counter.svg)
 <!--
 **SaiSatwik2226/SaiSatwik2226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
