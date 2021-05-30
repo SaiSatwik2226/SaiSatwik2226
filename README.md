@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anantha Sai Satwik</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Anantha Sai Satwik</h1>
 <h3 align="center">Learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saisatwik2226&label=Profile%20views&color=0e75b6&style=flat" alt="saisatwik2226" /> </p>
@@ -23,3 +23,19 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saisatwik2226&show_icons=true&locale=en" alt="saisatwik2226" /></p>
 
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saisatwik2226&" alt="saisatwik2226" /></p>-->
+
+[![Visits Badge](https://badges.pufler.dev/visits/Ashish-AVS/Ashish-AVS)](https://github.com/Ashish-AVS/Ashish-AVS?color=blue)
+![Repos Badge](https://badges.pufler.dev/repos/Ashish-AVS?color=red)
+
+
+
+## 📈 My GitHub Stats
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ashish-AVS&show_icons=true&locale=en" alt="Ashish-AVS" /></p>
+
+### Feel Free to Contact Me
+
+[<img align="left" alt="Satwik_Gmail" width=25px src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg">](mailto:saisatwik2226@gmail.com)
+[<img align="left" alt="Satwik_Facebook" width=25px src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg">](https://www.facebook.com/satwik-vysyaraju/)
+[<img align="left" alt="Satwik_Linkedin" width=25px src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg">](https://www.linkedin.com/in/anantha-sai-satwik-vysyaraju/)
+
