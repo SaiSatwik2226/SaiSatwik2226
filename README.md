@@ -24,8 +24,5 @@
 
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saisatwik2226&" alt="saisatwik2226" /></p>-->
 
-[![Visits Badge](https://badges.pufler.dev/visits/Ashish-AVS/Ashish-AVS)](https://github.com/Ashish-AVS/Ashish-AVS?color=blue)
-![Repos Badge](https://badges.pufler.dev/repos/Ashish-AVS?color=red)
-
 
 
