@@ -29,13 +29,3 @@
 
 
 
-## 📈 My GitHub Stats
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ashish-AVS&show_icons=true&locale=en" alt="Ashish-AVS" /></p>
-
-### Feel Free to Contact Me
-
-[<img align="left" alt="Satwik_Gmail" width=25px src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg">](mailto:saisatwik2226@gmail.com)
-[<img align="left" alt="Satwik_Facebook" width=25px src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg">](https://www.facebook.com/satwik-vysyaraju/)
-[<img align="left" alt="Satwik_Linkedin" width=25px src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg">](https://www.linkedin.com/in/anantha-sai-satwik-vysyaraju/)
-
