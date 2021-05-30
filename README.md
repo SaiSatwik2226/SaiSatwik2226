@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Anantha Sai Satwik</h1>
 <h3 align="center">Learning</h3>
 
-Pursuing EEE as my Major in BITS Pilani.
+Pursuing EEE as my Major in BITS Pilani, Exploring various fields in Electronics and Computer Science.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saisatwik2226&label=Profile%20views&color=0e75b6&style=flat" alt="saisatwik2226" /> </p>
 
