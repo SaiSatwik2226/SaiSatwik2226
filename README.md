@@ -5,7 +5,7 @@ Pursuing EEE as my Major in BITS Pilani, Exploring various fields in Electronics
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saisatwik2226" alt="saisatwik2226" /></a> </p>-->
 <p align="center">
-- 📫 How to reach me **saisatwik2226@gmail.com**
+  📫 How to reach me <a href="mailto:saisatwik2226@gmail.com">saisatwik2226@gmail.com</a>
 </p>
 
 
