@@ -1,14 +1,12 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Anantha Sai Satwik</h1>
 <h3 align="center">Learning</h3>
-
-Pursuing EEE as my Major in BITS Pilani, Exploring various fields in Electronics and Computer Science.
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saisatwik2226&label=Profile%20views&color=0e75b6&style=flat" alt="saisatwik2226" /> </p>
+<p align="center">
+Pursuing EEE as my Major in BITS Pilani, Exploring various fields in Electronics and Computer Science.</p>
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saisatwik2226" alt="saisatwik2226" /></a> </p>-->
-
+<p align="center">
 - 📫 How to reach me **saisatwik2226@gmail.com**
-
+</p>
 
 
 <h3 align="center">Languages and Tools:</h3>
@@ -29,3 +27,5 @@ Pursuing EEE as my Major in BITS Pilani, Exploring various fields in Electronics
 <a href="https://www.facebook.com/profile.php?id=100011199968863" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="satwik vysyaraju" height="30" width="40" /></a>
 <a href="https://instagram.com/_satwik_2226" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_satwik_2226" height="30" width="40" /></a>
 </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=saisatwik2226&label=Profile%20views&color=0e75b6&style=flat" alt="saisatwik2226" /> </p>
